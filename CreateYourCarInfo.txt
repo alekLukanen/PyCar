@@ -1,0 +1,3 @@
+If you are looking into making your own Raspberry Pi car please visit my Youtube page at: https://www.youtube.com/channel/UCzIouRDkJYsvyDuupx5mDrg
+
+The videos will help you make / build your car. The most helpful video will be Titled: Raspberry pi car part 2. It should have a set of links in the description that will help a lot.
